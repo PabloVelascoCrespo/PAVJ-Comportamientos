@@ -1,0 +1,13 @@
+BehaviorTrees:
+	- En la de C++ queda por hacer:
+		-> Hacer la parte 5 de Blueprints en C++
+
+	- En la de Blueprints queda por hacer:
+		-> Añadir lógica para no seguir la ruta por donde estaba antes de ver al jugador y elegir el siguiente punto con algo más de sentido, esto se podría usar utilizando el Enviroment Query System que se ve más adelante
+		-> Crear Smart Objects con los que puedan interactuar las IAs para crear distracciones que pueda aprovechar el jugador
+
+Percepción:
+	- Hacerlo en C++
+
+	- En Blueprints:
+		-> Hacer que la IA vaya al Waypoint más cercano primero (esperar a ver EQS)
